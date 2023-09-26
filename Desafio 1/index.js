@@ -28,4 +28,3 @@ else if(quantidadeDeXp>9000 && quantidadeDeXp<=10000){
 else if(quantidadeDeXp>10000) {
     console.log(respostaFinal+ niveisDeXp[7])
 }
-
